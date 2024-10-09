@@ -22,15 +22,7 @@ using BancoCSharp.Models;
         var conta03 = new ContaPoupanca(titular02);
 
       
-        try 
-        {
-          conta01.Depositar(15);
-          
-        }
-        catch (System.Exception ex )
-        {
-            System.Console.WriteLine(ex.Message);
-        }
+       
 
         System.Console.WriteLine("Saldo conta 01: " + conta01.Saldo);
         System.Console.WriteLine("Saldo conta 02: " + conta02.Saldo);

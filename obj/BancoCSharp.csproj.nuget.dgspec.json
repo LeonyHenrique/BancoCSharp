@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\luany\\OneDrive\\Área de Trabalho 1\\projetos aula desenvolvimento web\\BancoCSharp\\BancoCSharp.csproj": {}
+    "C:\\Users\\luany\\OneDrive\\Área de Trabalho 1\\projetos aula desenvolvimento web\\BancoCSharp\\BancoCSharp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\luany\\OneDrive\\Área de Trabalho 1\\projetos aula desenvolvimento web\\BancoCSharp\\BancoCSharp.csproj": {
+    "C:\\Users\\luany\\OneDrive\\Área de Trabalho 1\\projetos aula desenvolvimento web\\BancoCSharp\\BancoCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\luany\\OneDrive\\Área de Trabalho 1\\projetos aula desenvolvimento web\\BancoCSharp\\BancoCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\luany\\OneDrive\\Área de Trabalho 1\\projetos aula desenvolvimento web\\BancoCSharp\\BancoCSharp.csproj",
         "projectName": "BancoCSharp",
-        "projectPath": "c:\\Users\\luany\\OneDrive\\Área de Trabalho 1\\projetos aula desenvolvimento web\\BancoCSharp\\BancoCSharp.csproj",
+        "projectPath": "C:\\Users\\luany\\OneDrive\\Área de Trabalho 1\\projetos aula desenvolvimento web\\BancoCSharp\\BancoCSharp.csproj",
         "packagesPath": "C:\\Users\\luany\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\luany\\OneDrive\\Área de Trabalho 1\\projetos aula desenvolvimento web\\BancoCSharp\\obj\\",
+        "outputPath": "C:\\Users\\luany\\OneDrive\\Área de Trabalho 1\\projetos aula desenvolvimento web\\BancoCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luany\\AppData\\Roaming\\NuGet\\NuGet.Config"
