@@ -1,0 +1,16 @@
+1º Criar conta corrente - ok 
+2º Criar conta poupança - ok 
+3º Criar conta de investimento - ok
+4º Efetuar depósito - ok 
+5º Efetuar saque - ok
+6º Efetuar transferencia - ok
+7º Consultar saque - ok
+8º Não deve ser possível criar uma conta bancária sem tipo - ok
+9º cada tipo de conta possa implementar de forma diferente o método ImprimirExtrato - ok
+
+10º Visualizar movimentações bancárias
+    10.1 Uma classe que represente a minha movimentação - ok
+    10.2 uma lista para armazenar essas movimentações
+    10.3 uma forma de saber de forma simples qual o tipo da movimentação
+    10.4 um layout para apresentar a movimentação quando for perdida
+    10.5 Criar uma lógica para mostrar o layout
