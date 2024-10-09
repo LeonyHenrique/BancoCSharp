@@ -24,17 +24,6 @@ using BancoCSharp.Models;
       
        
 
-        System.Console.WriteLine("Saldo conta 01: " + conta01.Saldo);
-        System.Console.WriteLine("Saldo conta 02: " + conta02.Saldo);
-
-        System.Console.WriteLine("extrato Conta01: ");
-        conta01.ImprimirExtrato();
-
-        System.Console.WriteLine("extrato Conta02: ");
-        conta02.ImprimirExtrato();
-        System.Console.WriteLine("extrato Conta03: ");
-        conta02.ImprimirExtrato();
-
         System.Console.WriteLine();
     
 
